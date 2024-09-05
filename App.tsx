@@ -1,4 +1,6 @@
-import { 
+import { StatusBar } from 'react-native'
+
+import{
   useFonts,
   Ubuntu_700Bold,
   Ubuntu_500Medium,
