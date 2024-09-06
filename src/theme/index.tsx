@@ -1,8 +1,8 @@
-import { ActivityIndicator } from 'react-native'
+import { fontFamily } from './font-family'
 import { colors } from './colors'
 
 export const theme = {
     colors,
-
+    fontFamily,
 }
 
